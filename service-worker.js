@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sunlitsea-monitoring-demo/precache-manifest.aaaf166a2507cd6f2e525566c3c209a0.js"
+  "/sunlitsea-monitoring-demo/precache-manifest.cd13a3aff73dbf111d085013ec38dae7.js"
 );
 
 self.addEventListener('message', (event) => {
