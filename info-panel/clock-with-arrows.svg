@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 197 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-436,-546)">
+        <g id="Waves">
+        </g>
+        <g id="wind">
+        </g>
+        <g id="sun">
+        </g>
+        <g id="Waves1" serif:id="Waves">
+        </g>
+        <g id="wind1" serif:id="wind">
+        </g>
+        <g id="sun1" serif:id="sun">
+        </g>
+        <g id="stop-sign" serif:id="stop sign">
+        </g>
+        <g id="Panel-wire" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire1" serif:id="Panel wire" transform="matrix(1,0,0,1,124,336.615)">
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M592,512L496,512L448,640L640,640L592,512Z" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M528,512.366L512,640" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M560,512.366L576,640" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.490732,-44.3333,51.6719)">
+                <path d="M472,576L616,576" style="fill:none;stroke:black;stroke-width:2.92px;"/>
+            </g>
+        </g>
+        <g id="Panel-wire2" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire3" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire4" serif:id="Panel wire">
+        </g>
+        <g id="bird">
+        </g>
+        <g transform="matrix(1.58656,0,0,1.58656,-320.447,-32.1351)">
+            <g id="bird-with-laser" serif:id="bird with laser">
+                <g id="bird1" serif:id="bird">
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.795074,0,0,0.795074,-555.561,-95.5795)">
+            <g id="bird-with-laser1" serif:id="bird with laser">
+                <g id="bird2" serif:id="bird">
+                </g>
+            </g>
+        </g>
+        <g id="bird3" serif:id="bird">
+        </g>
+        <g id="bird4" serif:id="bird">
+        </g>
+        <g id="clock-with-arrows" serif:id="clock with arrows">
+        </g>
+        <g id="clock-with-arrows1" serif:id="clock with arrows" transform="matrix(0.723157,0,0,0.628291,141.164,328.91)">
+            <g transform="matrix(0.666667,0,0,0.666667,178.333,146.333)">
+                <circle cx="548.5" cy="452.5" r="4.5" style="stroke:black;stroke-width:4.43px;"/>
+            </g>
+            <g transform="matrix(0.681818,0,0,0.681818,173.091,142.545)">
+                <path d="M544,448L519.067,464.133" style="fill:none;stroke:black;stroke-width:4.33px;"/>
+            </g>
+            <g transform="matrix(0.607046,0.10074,-0.10074,0.607046,258.473,120.958)">
+                <path d="M544,448L549.867,399.719" style="fill:none;stroke:black;stroke-width:4.91px;"/>
+            </g>
+            <path d="M516,422.846C522.867,415.555 532.847,411 543.643,411C554.439,411 563.133,415.555 570,422.846L571,416L569.923,422.923L563.077,421.923" style="fill:none;stroke:black;stroke-width:5.91px;"/>
+            <g transform="matrix(-0.5,0.866025,-0.866025,-0.5,1200.22,196.554)">
+                <path d="M516,422.846C522.867,415.555 532.847,411 543.643,411C554.439,411 563.133,415.555 570,422.846L571,416L569.923,422.923L563.077,421.923" style="fill:none;stroke:black;stroke-width:5.58px;"/>
+            </g>
+            <g transform="matrix(-0.5,-0.866025,0.866025,-0.5,430.805,1138.29)">
+                <path d="M516,422.846C522.867,415.555 532.847,411 543.643,411C554.439,411 563.133,415.555 570,422.846L571,416L569.923,422.923L563.077,421.923" style="fill:none;stroke:black;stroke-width:6.3px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

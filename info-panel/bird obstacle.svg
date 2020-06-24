@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 203 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-684,-749)">
+        <g id="Waves">
+        </g>
+        <g id="wind">
+        </g>
+        <g id="sun">
+        </g>
+        <g id="Waves1" serif:id="Waves">
+        </g>
+        <g id="wind1" serif:id="wind">
+        </g>
+        <g id="sun1" serif:id="sun">
+        </g>
+        <g id="power" transform="matrix(0.676177,0,0,0.708333,460.729,261.53)">
+            <path d="M420,744L440.748,744L384,800L411,755L392,755L448,704L420,744Z" style="fill:none;stroke:black;stroke-width:2.89px;"/>
+        </g>
+        <g id="stop-sign" serif:id="stop sign">
+        </g>
+        <g id="Panel-wire" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire1" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire2" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire3" serif:id="Panel wire" transform="matrix(1,0,0,1,375,530.439)">
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M592,512L496,512L448,640L640,640L592,512Z" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M528,512.366L512,640" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.489329,-44.3333,52.3902)">
+                <path d="M560,512.366L576,640" style="fill:none;stroke:black;stroke-width:2.93px;"/>
+            </g>
+            <g transform="matrix(0.833333,0,0,0.490732,-44.3333,51.6719)">
+                <path d="M472,576L616,576" style="fill:none;stroke:black;stroke-width:2.92px;"/>
+            </g>
+        </g>
+        <g id="Panel-wire4" serif:id="Panel wire">
+        </g>
+        <g id="bird">
+        </g>
+        <g transform="matrix(1.58656,0,0,1.58656,-320.447,-32.1351)">
+            <g id="bird-with-laser" serif:id="bird with laser">
+                <g id="bird1" serif:id="bird">
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.795074,0,0,0.795074,-555.561,-95.5795)">
+            <g id="bird-with-laser1" serif:id="bird with laser">
+                <g id="bird2" serif:id="bird">
+                </g>
+            </g>
+        </g>
+        <g id="bird3" serif:id="bird" transform="matrix(1.83941,0,0,1.83941,-648.566,-212.493)">
+            <path d="M832,576C832,576 797,577 789,573C778.636,567.818 782.167,535.667 790,537C797.833,538.333 832,576 832,576Z" style="fill:white;stroke:black;stroke-width:1.09px;"/>
+            <path d="M832,576C832,576 801.333,567.5 797,563C793.898,559.779 803,547 803,547" style="fill:white;stroke:black;stroke-width:1.09px;"/>
+            <path d="M784,544L777,547L782.572,547" style="fill:white;stroke:black;stroke-width:1.09px;"/>
+            <path d="M790.253,542.349L790.253,542.39" style="fill:none;stroke:black;stroke-width:2.17px;"/>
+            <g transform="matrix(1,0,0,1,-6,-1)">
+                <path d="M804,576L804,586" style="fill:none;stroke:black;stroke-width:1.09px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.9,-6,57.6)">
+                <path d="M812,576L812,586" style="fill:none;stroke:black;stroke-width:1.14px;"/>
+            </g>
+        </g>
+        <g id="bird4" serif:id="bird">
+        </g>
+        <g transform="matrix(0.724475,0,0,2.46139,666.561,-59.2579)">
+            <path d="M64,352L57,345L61,345L61,335L67,335L67,345L71,345L64,352Z" style="fill:rgb(255,0,0);stroke:black;stroke-width:1.1px;"/>
+        </g>
+        <g id="clock-with-arrows" serif:id="clock with arrows">
+        </g>
+        <g id="clock-with-arrows1" serif:id="clock with arrows">
+        </g>
+    </g>
+</svg>

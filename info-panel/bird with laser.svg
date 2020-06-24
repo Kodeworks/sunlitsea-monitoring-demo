@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 179 168" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-897,-737)">
+        <g id="Waves">
+        </g>
+        <g id="wind">
+        </g>
+        <g id="sun">
+        </g>
+        <g id="Waves1" serif:id="Waves">
+        </g>
+        <g id="wind1" serif:id="wind">
+        </g>
+        <g id="sun1" serif:id="sun">
+        </g>
+        <g id="stop-sign" serif:id="stop sign">
+        </g>
+        <g id="Panel-wire" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire1" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire2" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire3" serif:id="Panel wire">
+        </g>
+        <g id="Panel-wire4" serif:id="Panel wire">
+        </g>
+        <g id="bird">
+        </g>
+        <g id="bird-with-laser" serif:id="bird with laser" transform="matrix(1.99548,0,0,1.99548,-527.048,-385.246)">
+            <g id="bird1" serif:id="bird" transform="matrix(0.795074,0,0,0.795074,103.534,176.955)">
+                <path d="M832,576C832,576 797,577 789,573C778.636,567.818 782.167,535.667 790,537C797.833,538.333 832,576 832,576Z" style="fill:white;stroke:black;stroke-width:1.26px;"/>
+                <path d="M832,576C832,576 801.333,567.5 797,563C793.898,559.779 803,547 803,547" style="fill:white;stroke:black;stroke-width:1.26px;"/>
+                <path d="M784,544L777,547L782.572,547" style="fill:white;stroke:black;stroke-width:1.26px;"/>
+                <path d="M790.253,542.349L790.253,542.39" style="fill:none;stroke:black;stroke-width:2.52px;"/>
+                <g transform="matrix(1,0,0,1,-6,-1)">
+                    <path d="M804,576L804,586" style="fill:none;stroke:black;stroke-width:1.26px;"/>
+                </g>
+                <g transform="matrix(1,0,0,0.9,-6,57.6)">
+                    <path d="M812,576L812,586" style="fill:none;stroke:black;stroke-width:1.33px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.39174,0.372352,-0.262159,0.275809,624.048,142.604)">
+                <rect x="763.656" y="507" width="27.344" height="69" style="fill:none;stroke:black;stroke-width:2.14px;"/>
+            </g>
+            <g transform="matrix(0.587516,0,0,0.59035,312.1,250.959)">
+                <path d="M793,576L761,608" style="fill:none;stroke:black;stroke-width:1.7px;"/>
+            </g>
+            <circle cx="759.5" cy="609.5" r="1.5" style="stroke:black;stroke-width:1px;"/>
+            <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(0.707107,-0.707107,0.707107,0.707107,-209.186,715.484)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(-0.121729,-0.992563,0.992563,-0.121729,246.16,1437.09)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,1519.2,1219.66)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(-0.707107,0.707107,-0.707107,-0.707107,1728.39,504.173)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(0.121729,0.992563,-0.992563,0.121729,1273.04,-217.434)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(-0.704381,-0.709822,0.635806,-0.630933,906.103,1533.08)">
+                <path d="M759.199,605L759.199,598.709" style="fill:none;stroke:black;stroke-width:1.06px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.795074,0,0,0.795074,-555.561,-95.5795)">
+            <g id="bird-with-laser1" serif:id="bird with laser">
+                <g id="bird2" serif:id="bird">
+                </g>
+            </g>
+        </g>
+        <g id="bird3" serif:id="bird">
+        </g>
+        <g id="bird4" serif:id="bird">
+        </g>
+        <g id="clock-with-arrows" serif:id="clock with arrows">
+        </g>
+        <g id="clock-with-arrows1" serif:id="clock with arrows">
+        </g>
+    </g>
+</svg>
